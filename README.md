@@ -1,7 +1,7 @@
 # DataScienceProject
 ## Summary & Strategy Recommendations
 
-# Hyperliquid Sentiment Analysis Project
+# Bitcoin Sentiment Analysis Project
 
 ## Project Goal
 Analyze how market sentiment (Fear/Greed) relates to trader behavior and performance on Hyperliquid to uncover patterns for smarter trading.
